@@ -1,0 +1,12 @@
+{
+  "name": "SW-Inventory",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1"
+  }
+}
